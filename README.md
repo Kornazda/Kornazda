@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kornazda
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Native JS
+- 💞️ I’m looking to collaborate on Native JS
+- 📫 How to reach me Discord 
